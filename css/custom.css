@@ -14,3 +14,8 @@
     right: 2%;
     display: none;
 }
+
+.navbar-toggle{
+    color: #ddd;
+    background-color: #444;
+}
