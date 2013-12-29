@@ -1,0 +1,50 @@
+/*body{
+	background-image: url('../images/pattern.jpg');
+}*/
+#main{
+	width: 100%;	
+	text-align: center;	
+}
+
+#header{
+    /*margin-top: 50px;*/
+	text-align: center;
+}
+
+#game{	
+	border-radius: 15px;
+	border: 5px inset silver;
+	display: inline;
+	background-image: url('../images/boxes/background.jpg');
+}
+
+#scores{
+	text-align: center;
+	line-height: 40px;		
+	background: url('../images/boxes/score_bg.jpg') no-repeat ;
+	background-position: center center;
+	height: 40px;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 24px;	
+	color: #fff;	
+}
+
+#cat{
+	padding: 0px 15px;
+}
+
+#shots, #hits, #misses, #acc{		
+	color: black;	
+	background-image: url('../images/boxes/pattern2.jpg');
+	border-radius: 5px;
+	border-style: inset;
+	padding: 0px 10px;
+	font-weight: bold;
+}
+
+
+
+#warn {
+	color: red;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+}
