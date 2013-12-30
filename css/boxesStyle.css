@@ -16,6 +16,7 @@
 	border: 5px inset silver;
 	display: inline;
 	background-image: url('../images/boxes/background.jpg');
+    margin: 10px 20px;
 }
 
 #scores{

@@ -452,7 +452,7 @@ function gameLoop(){
 		calcFinalScore();
 		lost = true;
 	}
-	
+    	
 	requestAnimationFrame(gameLoop);
 }
 addKeyboardEvents();

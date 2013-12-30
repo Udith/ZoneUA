@@ -19,3 +19,20 @@
     color: #ddd;
     background-color: #444;
 }
+
+.page-heading{
+    width: 100%;
+    background-color: #333;
+    color: #eee;
+    text-align: left;
+    padding-left: 10%;
+    padding-bottom: 20px;
+    margin-top: 0;
+    padding-top: 100px;
+    /*font-weight: bold;*/
+}
+
+body{
+    background-image: url("../images/retina_wood.png");
+    min-width: 850px;
+}
